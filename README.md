@@ -1,6 +1,6 @@
 # Samsung Health Security Props
 
-Removes "**sakv2**" from **ro.security.keystore.keytype** to help make Samsung Health run on rooted devices
+Removes "**sakv2**" from **ro.security.keystore.keytype** to help make Samsung Health run on rooted devices. Thsi doesnt mean its a universal "fix" and ymmv....
 
 Disclaimer:  The changes made by this module may have ramifications/consequences beyond what you may be using it for (Samsung 
 Health). I have tested it for several days and havent found any personally, but this doesnt mean they dont exist. You use this at your 
