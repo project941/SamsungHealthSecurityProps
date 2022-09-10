@@ -18,6 +18,9 @@ magisk is preferable as its easily reversible, but once i saw posts on XDA about
 
 As mentioned above, there may be side effects to this "fix", ymmv
 
+Note: You still need to make sure you have Samsung Health added to Magisk's Deny List, ideally with Shamiko installed (if using Shamiko dont forget to disable Enforce Deny List)
+
+
 **Please note:** the included LICENSE only covers the module components provided by the excellent work of Zack5tpg's Magisk Module Extended, which is available for here for module creators
 
 https://github.com/Zackptg5/MMT-Extended/
